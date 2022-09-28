@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gospodi-dev/eleventy-from-scratch/issues"
   },
-  "homepage": "https://github.com/gospodi-dev/eleventy-from-scratch#readme"
+  "homepage": "https://github.com/gospodi-dev/eleventy-from-scratch#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
 }
