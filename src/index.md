@@ -17,6 +17,11 @@ primaryCTA:
     though. Take the course today!'
   buttonText: 'Сделать Заказ'
   buttonUrl: 'https://vimpakshop.ru'
+featuredWork:
+  title: 'Выбрать работы'
+  summary: 'Кое-что, что должно дать вам представление о том, чем мы занимаемся.'
+studioFeed:
+  title: 'From inside the studio'
 ---
 
 This is pretty _rad_, right?
